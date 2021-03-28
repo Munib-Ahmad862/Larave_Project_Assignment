@@ -34,7 +34,7 @@
       </ul>
       <form action="/search" class="navbar-form navbar-left">
         <div class="form-group">
-          <input type="text" name="query" class="form-control search-box" placeholder="Search">
+          <input type="text" name="query" class="col-sm-4 form-control search-box" placeholder="Search">
         </div>
         <button type="submit" class="btn btn-default">Search</button>
       </form>

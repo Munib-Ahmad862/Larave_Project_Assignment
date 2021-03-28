@@ -1,8 +1,7 @@
-<div style="clear:both;" class="panel panel-default">
-    <div class="panel-body">
-        <div>
-            Panel Content
-        </div>
-        <div class="panel-footer">Panel Footer</div>
-    </div>
-</div>
+<footer  class="navbar navbar-inverse navbar-fixed-bottom">
+				<div class="container">
+				<p class="navbar-text pull-left">Desgined by Munib Ahmad</p>
+				<p class="navbar-text pull-center">We mean to provide Services to Afghanistan and to World</p>
+	
+				</div>
+			</footer>
